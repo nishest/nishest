@@ -2,7 +2,7 @@
 
 ------------
 
-`const nishitoxyz = {
+```const nishitoxyz = {
   code: ["JavaScript", "HTML", "CSS"],
   learning: ["PHP", "MySQL", "English"],
   projects: [
@@ -12,7 +12,7 @@
     }
   ]
   currentlyDoing: "Learning php" && "Coding Ignatsu"
-};`
+};```
 
 ### SOME OS/LANGUAGE/TOOLS I KNOW
 
