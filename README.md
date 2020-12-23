@@ -2,7 +2,8 @@
 
 ------------
 
-```const nishitoxyz = {
+```js
+  const nishitoxyz = {
   code: ["JavaScript", "HTML", "CSS"],
   learning: ["PHP", "MySQL", "English"],
   projects: [
