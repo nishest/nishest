@@ -12,7 +12,8 @@
     }
   ]
   currentlyDoing: "Learning php" && "Coding Ignatsu"
-};```
+};
+```
 
 ### SOME OS/LANGUAGE/TOOLS I KNOW
 
