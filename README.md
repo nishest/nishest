@@ -16,4 +16,4 @@
   };
 ```
 ------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitoxyz)](https://github.com/nishitoxyz/github-readme-stats)
+![nish github stats](https://github-readme-stats.vercel.app/api?username=nishitoxyz&show_icons=true&theme=radical)
