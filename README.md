@@ -16,4 +16,4 @@
   };
 ```
 ------------
-![nish github stats](https://github-readme-stats.vercel.app/api?username=nishitoxyz&show_icons=true&theme=radical)
+![nish github stats](https://github-readme-stats.vercel.app/api?username=nishest&show_icons=true&theme=radical)
